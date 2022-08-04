@@ -1,4 +1,4 @@
-%SerialLink.fkine Forward kinematics
+
 %
 % T = R.fkine(Q, OPTIONS) is the pose of the robot end-effector as an SE3
 % object for the joint configuration Q (1xN).
