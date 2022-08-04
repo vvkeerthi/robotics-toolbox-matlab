@@ -1,3 +1,5 @@
+test edit
+
 %SerialLink.animate   Update a robot animation
 %
 % R.animate(q) updates an existing animation for the robot R.  This will have
